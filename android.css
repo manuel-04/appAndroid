@@ -75,4 +75,5 @@ body {
 	text-shadow: rgba (0,0,0,0.6) 0px -1px 1px;
 	line-height: 28px;
 	border-width: 0 8px 0 8px;
+	border: blue 3px solid;
 }
